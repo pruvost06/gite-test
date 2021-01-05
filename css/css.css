@@ -1,0 +1,32 @@
+nav ul li{
+
+  text-align: center;
+  list-style: none;
+  display: inline-block;
+  font-size: 17px;
+  margin-top: 1px;
+  margin-right: 0px;
+  margin-left: 50px;
+  cursor: pointer;
+  text-transform: none;
+  margin:30px ;
+  text-indent: 30px;
+
+    }
+  
+    ul li a{                       /*---------------------menue de navigation-----------css------------------------*/
+  
+  text-decoration: none;
+  color: white;
+ 
+  
+  }
+
+  ul li a:hover{                       /*---------------------menue de navigation-----------css------------------------*/
+  
+    text-decoration: none;
+    color: black;
+    background: orange;
+    padding: 20px;
+    border: 2px;
+  }
